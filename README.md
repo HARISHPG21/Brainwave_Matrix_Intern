@@ -1,4 +1,5 @@
 Brainwave_Matrix_Solutions_Internship
+
 A Fake News Detection System using Machine Learning identifies misleading or false information by analyzing news content. It uses natural language processing (NLP) techniques to extract features from headlines or articles. The system is trained on labeled datasets of real and fake news. Popular algorithms include Logistic Regressesion,Naive Bayes, and Support Vector Machines. After training, it can classify unseen news as real or fake. This helps combat misinformation and supports informed decision-making.
 
 Features:
