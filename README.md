@@ -11,7 +11,6 @@ Installation:
 To set up this project, follow these steps:
 
 Clone the repository:
-
 git clone
 https://github.com/HARISHPG21/Brainwave_Matrix_Solutions_Intern/tree/main
 Fake_News_Detection
@@ -34,6 +33,7 @@ Dataset:
 This project uses the Fake News Dataset from Kaggle, which contains real and fake news articles. You can download it from here and place it in the data/ directory.
 
 Model:
-Th model is trained using: Logistic Regression / Naive Bayes / LSTMs TF-IDF vectorization Word embeddings (Word2Vec, GloVe, BERT) Trained models are stored in the models/ directory and can be loaded for prediction.
+
+The model is trained using: Logistic Regression / Naive Bayes / LSTMs TF-IDF vectorization Word embeddings (Word2Vec, GloVe, BERT) Trained models are stored in the models/ directory and can be loaded for prediction.
 
 
